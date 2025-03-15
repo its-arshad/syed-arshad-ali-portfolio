@@ -18,7 +18,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/anvesh-awar-posts-01.jpg
   altText: ''
   caption: ''
   elementId: ''
