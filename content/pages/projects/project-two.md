@@ -5,9 +5,13 @@ colors: colors-a
 date: '2021-12-20'
 client: Bilwam India Cabs Pvt Ltd
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  I joined this project as an intern and eventually transitioned into a
+  full-time role, where I became the sole iOS developer responsible for building
+  and optimizing the app. I took ownership of key features, such as implementing
+  an animated Google Pin to display car locations, optimizing the codebase for
+  performance, and leading a full redesign of the app. While I worked
+  independently, I consistently drove the technical direction, ensuring the
+  project’s success and delivering a high-quality user experience.
 featuredImage:
   type: ImageBlock
   url: /images/images.png
